@@ -1,20 +1,15 @@
-<meta name="Clip Userbot" content="Clip Userbot - Самый простой юзербот для телеграм">
-<meta name="Clip" content="Clip Userbot, Userbot, telegram"> 
-<p align="center"><a href="https://t.me/arturdestroyerbot"><img src="https://github.com/A9FM/filesUB/blob/main/logo.png" width="500"></a></p> 
-<p align="center"><a href="https://github.com/A9FM/ClipUserbot"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/A9FM/ClipUserbot&title=Profile%20Views" width="250"></a></p> 
+# Прошу не критиковать мой старющий код, оставил юзербота данного как память, благодаря нему я научился базовому пониманию в программировании 
 
-## Помощь 🚑
-<a href="https://t.me/arturdestroyerbot"><img src="https://github.com/A9FM/filesUB/blob/main/channel.png"></a>
-<a href="https://t.me/ClipUserbot"><img src="https://github.com/A9FM/filesUB/blob/main/chat.png"></a>
+## Clip Userbot - Самый простой юзербот для телеграм
 
 ## Создатель
 * [Telegram](https://t.me/a9_fm)
-* [Github](https://github.com/A9FM)
+* [Github](https://github.com/A9-FM)
 
 ## Для Termux (Android)
 ### Установка
 ```
-pkg update -y ; pkg install python -y ; pkg install git -y ; curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py ; python3 get-pip.py ; rm get-pip.py ; git clone https://github.com/A9FM/ClipUserbot ; cd ClipUserbot ; termux-wake-lock ; python3 bot.py
+pkg update -y ; pkg install python -y ; pkg install git -y ; curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py ; python3 get-pip.py ; rm get-pip.py ; git clone https://github.com/A9-FM/ClipUserbot ; cd ClipUserbot ; termux-wake-lock ; python3 bot.py
 ```
 
 ### При запуске
@@ -34,7 +29,7 @@ cd ClipUserbot ; termux-wake-lock ; python bot.py
 
 И ожидаем...
 
-Теперь скачиваем ЮзерБота По этой [Ссылке](https://github.com/A9FM/ClipUserbot/archive/refs/heads/main.zip)
+Теперь скачиваем ЮзерБота По этой [Ссылке](https://github.com/A9-FM/ClipUserbot/archive/refs/heads/main.zip)
 Разархивируем файлы, и запускаем файл windows.bat
 
 Всё)
@@ -75,6 +70,3 @@ python3 bot.py
 ```
 cd ClipUserbot && python3 bot.py
 ```
----
-
-## [© ClipUserbot](https://github.com/A9FM/filesUB/blob/main/README.md) 
